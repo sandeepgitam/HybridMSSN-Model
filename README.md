@@ -14,6 +14,8 @@
 * The 2D-CNN extracts more abstract level spatial representation from the features obtained from the last 3D-CNN.
 * Multi Scale Feature learning strategy is employed to achieve the abstraction of image data at various scales.
 * Spinal Fully Connected Networks (SFCNs) helps in improving the accuracy.
+* We have used Google colab pro platform to run this code and generate the results.
+* Datasets can be downloaded from the official website of the Computational Intelligence Group of the University of the Basque Country (UPV/EHU) [https://www.ehu.eus/ccwintco/index.php/Hyperspectral_Remote_Sensing_Scenes]
 
 
 # Prerequisites
@@ -27,7 +29,7 @@
 
 # Instructions to use this code
 
-* Import .ipynb file 
+* Import Hybrid_MS_SpinalNet.ipynb file to your Google colab
 
 
 
