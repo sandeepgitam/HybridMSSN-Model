@@ -15,6 +15,9 @@
 * Multi Scale Feature learning strategy is employed to achieve the abstraction of image data at various scales.
 * Spinal Fully Connected Networks (SFCNs) helps in improving the accuracy.
 * We have used Google colab pro platform to run this code and generate the results.
+
+# Datasets 
+
 * Datasets can be downloaded from the official website of the Computational Intelligence Group of the University of the Basque Country (UPV/EHU) [https://www.ehu.eus/ccwintco/index.php/Hyperspectral_Remote_Sensing_Scenes]
 
 
@@ -29,7 +32,9 @@
 
 # Instructions to use this code
 
-* Import Hybrid_MS_SpinalNet.ipynb file to your Google colab
+* Import Hybrid_MS_SpinalNet.ipynb file to your Google colab platform. We used a GPU and a High RAM provided with Google colab pro subscription. 
+* Upload the dataset and the correrponding groundtruth.
+* You may run individual code cells
 
 
 
