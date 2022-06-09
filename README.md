@@ -45,7 +45,7 @@
 
 # License
 
-* Copyright (c) 2022 Sandeep Kumar Ladi. Released under the MIT License. See [LICENSE] for details.
+* Copyright (c) 2022 Sandeep Kumar Ladi. Released under the MIT License. See [LICENSE](https://github.com/sandeepgitam/HybridMSSN-Model/blob/main/LICENSE) for details.
 
 
 
