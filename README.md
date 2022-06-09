@@ -36,7 +36,9 @@
 * Upload the dataset and the correrponding groundtruth.
 * Set the dataset, name variables to 'IP' for investigating on Indian Pines dataset. Similarly set 'PU' for Pavia University and 'SA' for Salinas dataset.
 *  test_ratio denotes testing ratio. windowsie is used to select the size of 3D image patches.
-* Run the individual code cells.
+* Run the individual code cells and observe the output.
+* Classification report containing Test loss, Test accuracy, Kappa accuracy, Overall accuracy, Training time and Testing time will be saved in text file. We have named this file as 'classification_report.txt' in our code. You can give your own name.
+* 
 
 
 
