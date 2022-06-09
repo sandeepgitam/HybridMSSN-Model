@@ -32,9 +32,10 @@
 
 # Instructions to use this code
 
-* Import Hybrid_MS_SpinalNet.ipynb file to your Google colab platform. We used a GPU and a High RAM provided with Google colab pro subscription. 
+* Import Hybrid_MS_SpinalNet.ipynb file to your Google colab platform. We have used a GPU and a High RAM provided with Google colab pro subscription for simulating the results. 
 * Upload the dataset and the correrponding groundtruth.
-* You may run individual code cells
+* 
+* Run the individual code cells.
 
 
 
