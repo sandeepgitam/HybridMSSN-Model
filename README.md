@@ -34,7 +34,8 @@
 
 * Import Hybrid_MS_SpinalNet.ipynb file to your Google colab platform. We have used a GPU and a High RAM provided with Google colab pro subscription for simulating the results. 
 * Upload the dataset and the correrponding groundtruth.
-* 
+* Set the dataset, name variables to 'IP' for investigating on Indian Pines dataset. Similarly set 'PU' for Pavia University and 'SA' for Salinas dataset.
+*  test_ratio denotes testing ratio. windowsie is used to select the size of 3D image patches.
 * Run the individual code cells.
 
 
