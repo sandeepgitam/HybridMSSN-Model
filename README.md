@@ -39,5 +39,8 @@
 * Run the individual code cells and observe the output.
 * Classification report containing Test loss, Test accuracy, Kappa accuracy, Overall accuracy, Training time and Testing time will be saved in text file. We have named this file as 'classification_report.txt' in our code. You can give your own name.
 
+# Acknowledgement
+* Part of this code is from a implementation of Classification of HSI using CNN by Konstantinos Fokeas[https://github.com/KonstantinosF/Classification-of-Hyperspectral-Image]
+
 
 
